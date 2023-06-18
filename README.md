@@ -8,3 +8,4 @@ V datoteki boste našli program igrice štiri v vrsto.
 4. Na legendi kaže kateri igralec je kdaj na vrsti, ter katere barve je določen igralec.
 5. Na koncu sva še pregledala za zmage vodoravno, diagonalno in navpično, ali pa če slučajno pride do neodločenega zmagovalca.
 
+Link do videoposnetka:
