@@ -8,4 +8,4 @@ V datoteki boste našli program igrice štiri v vrsto.
 4. Na legendi kaže katere barve določen igralec.
 5. Na koncu sva še pregledala za zmage vodoravno, diagonalno in navpično, ali pa če slučajno pride do neodločenega zmagovalca.
 
-Link do videoposnetka:
+Link do videoposnetka: https://youtu.be/-oxbKKiAC7M
